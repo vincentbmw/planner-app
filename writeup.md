@@ -1,3 +1,5 @@
+NOTE: My Image didn't show up in page and don't know why, so i just submit it because i'm scared my time is up. 
+
 The photo widget is a suitable addition to a planner application because it provides the ability to add visual representation in the form of photos to users' schedules and notes. In a planner application, it is often important for users to see images related to specific activities or events.
 
 The photo widget can be used for various purposes within a planner application. Some examples of its usage include:
